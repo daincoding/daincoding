@@ -41,10 +41,8 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=djnextec&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="center">Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/daincoding/daincoding/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-</details>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 <!--
 **daincoding/daincoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

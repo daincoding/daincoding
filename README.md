@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Focus-Web%20Development-C2FFC7?style=flat" />
 </p>
 
-<p align="center">
+<p align="left">
 :point_right: Hi! I’m a passionate web developer with a love for frontend design and user experiences. My background in sound design and composing for a game studio sparked my interest in coding and UI/UX because I helped out in this area while working there, and I’ve since gained experience in both frontend and backend technologies. I’m always eager to learn and strive to create seamless, user-friendly designs.
 </p>
 
@@ -39,6 +39,13 @@
 ### :musical_note: I'm listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=djnextec&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+### GH Stats
+
+<summary>GitHub Stats</summary>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=daincoding&theme=tokyonight&show_icons=true">
+</p>
 
 <!--
 **daincoding/daincoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

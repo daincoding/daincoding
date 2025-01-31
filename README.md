@@ -42,7 +42,7 @@
 
 <h3 align="center">Contribution Snake</h3>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/daincoding/daincoding/blob/output/github-snake-dark.svg)
 
 <!--
 **daincoding/daincoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

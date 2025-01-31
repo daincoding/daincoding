@@ -1,6 +1,10 @@
 <img src="images/png/waiting_dain.png" height="30"> <h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Alex!</h1>
 
-<p>Just a Test</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Enjoy-Coffee%20Development-C2FFC7?style=flat" />
+    <img src="https://img.shields.io/badge/Love-Design-CB9DF0?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-Web%20Development-C2FFC7?style=flat" />
+</p>
 
 <!--
 **daincoding/daincoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

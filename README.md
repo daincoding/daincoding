@@ -1,4 +1,4 @@
-<img src="images/png/waiting_dain.png" height="30"> <h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Alex!</h1>
+<img src="images/png/waiting_dain.png" height="30" alt="dainicon"> <h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40" alt="waveicon"> I'm Alex!</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Enjoy-Coffee-C2FFC7?style=flat" />
@@ -13,27 +13,28 @@
 <summary>Skills & Tools :bulb:</summary>
 <h3 align="center">Languages & Frameworks :computer:</h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
 <h2>:mag: Find me around the web:</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alexpanske/" target="blank"><img align="center" src="images/socials/linkedin.png" alt="" height="30" /></a>
-<a href="http://panske.dev" target="blank"><img align="center" src="images/socials/chrome.png" alt="" height="30" /></a>
-<a href="http://twitch.tv/dain_sounds" target="blank"><img align="center" src="images/socials/twitch.png" alt="" height="30" /></a>
-<a href="https://open.spotify.com/artist/0WGxgRurCUtZPILs08KznX?si=KvqCXOBhQrWyYYijzs0alg" target="blank"><img align="center" src="images/socials/spotify.png" alt="" height="30" /></a>
-<a href="https://bsky.app/profile/dainsounds.nohit.club" target="blank"><img align="center" src="images/socials/bsky.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/alexpanske/" target="blank"><img align="center" src="images/socials/linkedin.png" alt="linkdin" height="30" /></a>
+<a href="http://panske.dev" target="blank"><img align="center" src="images/socials/chrome.png" alt="portfolio" height="30" /></a>
+<a href="http://twitch.tv/dain_sounds" target="blank"><img align="center" src="images/socials/twitch.png" alt="twitch.tv" height="30" /></a>
+<a href="https://open.spotify.com/artist/0WGxgRurCUtZPILs08KznX?si=KvqCXOBhQrWyYYijzs0alg" target="blank"><img align="center" src="images/socials/spotify.png" alt="spotify" height="30" /></a>
+<a href="https://bsky.app/profile/dainsounds.nohit.club" target="blank"><img align="center" src="images/socials/bsky.png" alt="bluesky" height="30" /></a>
 </p>
 
 ### :musical_note: I'm listening to:

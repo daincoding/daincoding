@@ -27,6 +27,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
+<h3 align="center">Currently Learning :computer:</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="typescript" width="40" height="40"/>
+</p>
+
 <h2>:mag: Find me around the web:</h2>
 
 <p align="left">

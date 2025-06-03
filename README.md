@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-:point_right: Hi! I’m a passionate web developer with a love for frontend design and user experiences. My background in sound design and composing for a game studio sparked my interest in coding and UI/UX because I helped out in this area while working there, and I’ve since gained experience in both frontend and backend technologies. I’m always eager to learn and strive to create seamless, user-friendly designs.
+:point_right: Hi! I’m a web developer with a background in sound design, currently focused on Java. I’m especially interested in frontend design and enjoy building clean, user-friendly interfaces.
 </p>
 
 <summary>Skills & Tools :bulb:</summary>

@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/Enjoy-Coffee-C2FFC7?style=flat" />
     <img src="https://img.shields.io/badge/Love-Design-CB9DF0?style=flat" />
     <img src="https://img.shields.io/badge/Focus-Web%20Development-C2FFC7?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-Java%20Development-C2FFC7?style=flat" />
 </p>
 
 <p align="left">

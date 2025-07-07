@@ -1,4 +1,4 @@
-<img src="images/png/waiting_dain.png" height="30" alt="dainicon"> <h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="35" alt="waveicon"> I'm Alex!</h1>
+<img src="images/png/waiting_dain.png" style="height:30px; width:auto;" alt="dainicon"> <h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" style="height:30px; width:auto;" alt="waveicon"> I'm Alex!</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Enjoy-Coffee-C2FFC7?style=flat" />
@@ -14,8 +14,8 @@
 <summary>Skills & Tools :bulb:</summary>
 <h3 align="center">Languages & Frameworks :computer:</h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="height:30px; width:auto;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="height:30px; width:auto;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>

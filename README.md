@@ -41,9 +41,6 @@
 <a href="https://bsky.app/profile/dainsounds.nohit.club" target="blank"><img align="center" src="images/socials/bsky.png" alt="bluesky" style="height:30px; width:auto;"/></a>
 </p>
 
-### :musical_note: I'm listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=djnextec&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="center">Contribution Snake</h3>
 
